@@ -14,7 +14,7 @@ body {
 /*estiliza tosos os títulos h1*/
 h1 {
   text-align: center;
-  font-size: 20pt;
+  font-size: 40pt;
 }
 
 h2 {
@@ -35,8 +35,8 @@ h2 {
 }
 .cordetexto {
 
-background:red ;
+background:rgb(194, 23, 23) ;
 color: aliceblue;
-font-family: ;
+font-size: 20pt;
 
 }
